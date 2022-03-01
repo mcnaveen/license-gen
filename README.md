@@ -66,6 +66,9 @@ OKXYT-PE8V5
 
 > If the Pair length is not specified, the default pair length will be set to 4.
 
+### :star2: Example Repo
+https://github.com/mcnaveen/license-gen-example
+
 ### :book: License
 - MIT
 
