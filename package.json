@@ -1,0 +1,27 @@
+{
+  "name": "@mcnaveen/license-gen",
+  "version": "1.0.3",
+  "description": "Utility to generate a license key in Node.js projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcnaveen/license-gen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mcnaveen/license-gen/issues"
+  },
+  "homepage": "https://github.com/mcnaveen/license-gen#readme",
+  "author": "mcnaveen <me@mcnaveen.com>",
+  "keywords": [
+    "license",
+    "license-key",
+    "license-key-generator"
+  ],
+  "license": "MIT"
+}
