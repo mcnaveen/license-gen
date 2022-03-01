@@ -1,7 +1,7 @@
 # Node License Key Generator
 :unicorn: Simple utility to generate a license key in Node.js projects.
 
-![License Generator](https://github.com/mcnaveen/license-gen/workflows/License%20Generator/badge.svg)
+![License Generator Module](https://github.com/mcnaveen/license-gen-example/workflows/License%20Generator/badge.svg)
 
 ### :package: Requirements
 - Node.js 12X LTS or 14X LTS 📦
