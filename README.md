@@ -1,7 +1,7 @@
 # Node License Key Generator
 :unicorn: Simple utility to generate a license key in Node.js projects.
 
-![License Generator Module](https://github.com/mcnaveen/license-gen-example/workflows/License%20Generator/badge.svg)
+![License Generator Module](https://github.com/mcnaveen/license-gen-example/workflows/Build/badge.svg)
 
 ### :package: Requirements
 - Node.js 12X LTS or 14X LTS 📦
@@ -72,6 +72,12 @@ https://github.com/mcnaveen/license-gen-example
 ### :book: License
 - MIT
 
+----
+
+#### Links:
+- dev.to (https://dev.to/mcnaveen/generating-license-key-in-nodejs-2ie8)
+- hashnode (https://mcnaveen.hashnode.dev/how-to-generate-license-key-with-nodejs)
+
 ---
 
 #### :green_heart: Message
@@ -79,4 +85,3 @@ https://github.com/mcnaveen/license-gen-example
 > No Additional dependencies used.
 
 I hope you find this useful. If you have any questions, please create an issue.
-
