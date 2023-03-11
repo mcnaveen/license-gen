@@ -1,6 +1,6 @@
 # Node License Key Generator
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 :unicorn: Simple utility to generate a license key in Node.js projects.
 
@@ -100,6 +100,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://hexmarkrecords.com"><img src="https://avatars.githubusercontent.com/u/63052259?v=4?s=100" width="100px;" alt="Hexmark Records Ltd"/><br /><sub><b>Hexmark Records Ltd</b></sub></a><br /><a href="https://github.com/mcnaveen/license-gen/commits?author=hexmarkrecords" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://mcnaveen.com"><img src="https://avatars.githubusercontent.com/u/8493007?v=4?s=100" width="100px;" alt="MC Naveen"/><br /><sub><b>MC Naveen</b></sub></a><br /><a href="https://github.com/mcnaveen/license-gen/commits?author=mcnaveen" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
