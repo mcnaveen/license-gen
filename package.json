@@ -8,7 +8,9 @@
     "test:i": "jest --coverageReporters=html --collect-coverage",
     "test:coverage": "jest --coverage --detectOpenHandles",
     "lint": "eslint \"./src/**/*.js\"",
-    "lint:fix": "eslint \"./src/**/*.js\" --fix"
+    "lint:fix": "eslint \"./src/**/*.js\" --fix",
+    "contributors:add": "all-contributors add",
+    "contributors:generate": "all-contributors generate"
   },
   "publishConfig": {
     "access": "public"
@@ -29,12 +31,20 @@
   ],
   "license": "MIT",
   "devDependencies": {
+    "all-contributors-cli": "^6.24.0",
     "eslint": "^8.32.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.26.0",
+    "gacp": "^3.0.3",
     "jest": "^29.3.1"
   },
   "dependencies": {
     "crypto": "^1.0.1"
+  },
+  "gacp": {
+    "add": false,
+    "push": false,
+    "emoji": "emoji",
+    "editor": false
   }
 }
