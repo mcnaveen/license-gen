@@ -1,6 +1,6 @@
 {
   "name": "@mcnaveen/license-gen",
-  "version": "1.0.4",
+  "version": "2.0.0",
   "description": "Utility to generate a license key in Node.js projects",
   "main": "src/index.js",
   "scripts": {
